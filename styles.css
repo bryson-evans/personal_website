@@ -1,0 +1,45 @@
+:root {
+    --ff-primary:'Roboto';
+    
+}
+
+body{
+    background-color: #A7A8AD;
+}
+
+h1 {
+
+    font-weight: 150;
+    font-size: 40pt;
+}
+#nameTitle{
+    align-self: center;
+    text-align: center;
+    font-family: var(--ff-primary);
+}
+#selfText{
+    align-self: center;
+    text-align: center;
+    font-size: 20pt;
+    font-weight: 30pt;
+    font-family: var(--ff-primary);
+
+}
+#Family{
+    size: 80%;
+    width: 80%;
+    
+}
+#Title{
+    align-self: center;
+    text-align: center;
+    font-family: var(--ff-primary);
+}
+
+#talentText{
+    align-self: center;
+    text-align: center;
+    font-size: 20pt;
+    font-weight: 30pt;
+    font-family: var(--ff-primary);
+}
