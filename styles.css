@@ -28,6 +28,7 @@ h1 {
 #Family{
     size: 80%;
     width: 80%;
+    align-self: centerss;
     
 }
 #Title{
@@ -42,4 +43,36 @@ h1 {
     font-size: 20pt;
     font-weight: 30pt;
     font-family: var(--ff-primary);
+
 }
+.Talents{
+    float: left;
+ }
+.Talen{
+    float: left;
+}
+#hobTitle{
+    align-self: center;
+    text-align: center;
+    font-family: var(--ff-primary);
+}
+.Editing{
+    align-self: center;
+}
+.hobbieBox{
+    background-color: #8A8A8A;
+
+}
+#hobImg{
+    width: 300px;
+    
+}
+#yesThe{
+    width: 300px;
+}
+#iAm{
+    text-align: left;
+    background-color: azure;
+    font-size: 30px;
+}
+
